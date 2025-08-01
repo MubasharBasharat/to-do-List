@@ -15,7 +15,10 @@ Smart Tasks is a clean, modern, and smart task management app built using Flutte
 
 ## 📱 Screenshots
 
-*(Add screenshots here once available)*
+!(assets/appScreenShots/1.png)
+!(assets/appScreenShots/2.png)
+!(assets/appScreenShots/3.png)
+!(assets/appScreenShots/4.png)
 
 ## 🛠 Tech Stack
 
