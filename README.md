@@ -1,16 +1,33 @@
-# to_do_list
+# 📝 Smart Tasks – Flutter To-Do List App
 
-A new Flutter project.
+Smart Tasks is a clean, modern, and smart task management app built using Flutter. It helps users manage their daily goals with features like categories, reminders, calendar view, dark/light mode, and local persistence using Hive.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- ✅ Add, edit, delete, and complete tasks
+- 📆 Calendar integration with highlighted task dates
+- 🔔 Local notification reminders
+- 🗂 Task categories: Work, Personal, Wishlist, etc.
+- 🌙 Dark and light theme toggle
+- 🧠 Intelligent onboarding and completion screens
+- 💾 Persistent offline storage using Hive
+- 🎉 Welcome and splash screens for better UX
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+*(Add screenshots here once available)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- **Flutter** – UI Toolkit
+- **Provider** – State Management
+- **Hive** – Local NoSQL DB for offline storage
+- **TableCalendar** – Calendar UI
+- **Flutter Local Notifications** – Reminders
+- **Intl** – Date formatting
+
+## 📦 Getting Started
+
+```bash
+flutter pub get
+flutter run
